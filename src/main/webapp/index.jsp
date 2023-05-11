@@ -5,6 +5,8 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">UPGRADED MY APPLICATION</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">This is Vivek edited one for testing</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">This is Edited for master slave concept including maven and deploying to tomcat</h1>
+	<h1 style="color: Yellow; font-size: 40px;" align="center">Adding new changes for nexus server</h1>
+
 	
 	
 	
