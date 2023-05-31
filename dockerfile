@@ -1,2 +1,2 @@
-FROM ubuntu
-RUN touch file1 file2 aws
+FROM httpd
+COPY . /usr/local/apache2/httpd/
